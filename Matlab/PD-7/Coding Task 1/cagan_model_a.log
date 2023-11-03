@@ -1,0 +1,56 @@
+Starting Dynare (version 5.4).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 2 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+STEADY-STATE RESULTS:
+
+p 		 20
+m 		 20
+
+MODEL SUMMARY
+
+  Number of variables:         2
+  Number of stochastic shocks: 1
+  Number of state variables:   1
+  Number of jumpers:           1
+  Number of static variables:  0
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables           u
+u            0.100000
+
+POLICY AND TRANSITION FUNCTIONS
+                                   p               m
+Constant                   20.000000       20.000000
+m(-1)                       0.818182        0.900000
+u                           0.909091        1.000000
+
+
+THEORETICAL MOMENTS
+VARIABLE         MEAN  STD. DEV.   VARIANCE
+p             20.0000     0.6595     0.4350
+m             20.0000     0.7255     0.5263
+
+
+
+MATRIX OF CORRELATIONS
+Variables         p       m
+p            1.0000  1.0000
+m            1.0000  1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION
+Order          1       2       3       4       5
+p         0.9000  0.8100  0.7290  0.6561  0.5905
+m         0.9000  0.8100  0.7290  0.6561  0.5905
+Total computing time : 0h00m23s

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 541.28" style="enable-background:new 0 0 1000 541.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#E0E0E0;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#E0E0E0;}
+	.st2{font-family:'Helvetica';}
+	.st3{font-size:10.0002px;}
+	.st4{letter-spacing:27;}
+	.st5{letter-spacing:25;}
+	.st6{fill:none;stroke:#E0E0E0;stroke-width:0.4998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#6C5FFF;}
+	.st8{font-family:'Helvetica-Bold';}
+	.st9{font-size:10.9998px;}
+	.st10{fill:none;stroke:#0072BD;stroke-width:0.4998;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#E85661;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#00D290;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{letter-spacing:44;}
+	.st14{letter-spacing:42;}
+</style>
+<g>
+	<path class="st0" d="M74,211.7h385.2 M74,19.7h385.2 M95.13,211.7v-3.85 M137.96,211.7v-3.85 M180.79,211.7v-3.85 M223.63,211.7
+		v-3.85 M266.46,211.7v-3.85 M309.29,211.7v-3.85 M352.12,211.7v-3.85 M394.95,211.7v-3.85 M437.78,211.7v-3.85 M95.13,19.7v3.85
+		 M137.96,19.7v3.85 M180.79,19.7v3.85 M223.63,19.7v3.85 M266.46,19.7v3.85 M309.29,19.7v3.85 M352.12,19.7v3.85 M394.95,19.7v3.85
+		 M437.78,19.7v3.85"/>
+	<text transform="matrix(1 0 0 1 85.2266 225.8959)" class="st1 st2 st3">0.58</text>
+	<text transform="matrix(1 0 0 1 130.7656 225.8959)" class="st1 st2 st3">0.</text>
+	<text transform="matrix(1 0 0 1 138.2656 225.8959)" class="st1 st2 st3 st4">60</text>
+	<text transform="matrix(1 0 0 1 175.8906 225.8959)" class="st1 st2 st3">.6</text>
+	<text transform="matrix(1 0 0 1 183.3906 225.8959)" class="st1 st2 st3 st5">20</text>
+	<text transform="matrix(1 0 0 1 218.7266 225.8959)" class="st1 st2 st3">.6</text>
+	<text transform="matrix(1 0 0 1 226.2266 225.8959)" class="st1 st2 st3 st5">40</text>
+	<text transform="matrix(1 0 0 1 261.5547 225.8959)" class="st1 st2 st3">.66</text>
+	<text transform="matrix(1 0 0 1 299.3906 225.8959)" class="st1 st2 st3">0.68</text>
+	<text transform="matrix(1 0 0 1 344.9219 225.8959)" class="st1 st2 st3">0.7</text>
+	<text transform="matrix(1 0 0 1 385.0547 225.8959)" class="st1 st2 st3">0.72</text>
+	<text transform="matrix(1 0 0 1 427.8828 225.8959)" class="st1 st2 st3">0.74</text>
+	<path class="st6" d="M74,211.7v-192 M459.2,211.7v-192 M74,211.7h3.85 M74,163.7h3.85 M74,115.7h3.85 M74,67.7h3.85 M74,19.7h3.85
+		 M459.2,211.7h-3.85 M459.2,163.7h-3.85 M459.2,115.7h-3.85 M459.2,67.7h-3.85 M459.2,19.7h-3.85"/>
+	<text transform="matrix(1 0 0 1 58.6016 215.599)" class="st1 st2 st3">20</text>
+	<text transform="matrix(1 0 0 1 58.6016 167.599)" class="st1 st2 st3">25</text>
+	<text transform="matrix(1 0 0 1 58.6016 119.599)" class="st1 st2 st3">30</text>
+	<text transform="matrix(1 0 0 1 58.6016 71.599)" class="st1 st2 st3">35</text>
+	<text transform="matrix(1 0 0 1 58.6016 23.6069)" class="st1 st2 st3">40</text>
+	<text transform="matrix(1 0 0 1 247.1016 15.0522)" class="st7 st8 st9">lambda</text>
+	<polyline class="st10" points="74,149.5 93.26,131.25 112.52,114.67 131.78,99.79 151.04,86.67 170.3,75.35 189.56,65.91 
+		208.82,58.4 228.08,52.92 247.34,49.55 266.6,48.4 285.86,49.59 305.12,53.27 324.38,59.62 343.64,68.82 362.9,81.14 382.16,96.86 
+		401.42,116.36 420.68,140.12 439.94,168.73 459.2,203.02 	"/>
+	<polyline class="st11" points="74,149.5 93.26,131.25 112.52,114.67 131.78,99.79 151.04,86.67 170.3,75.35 189.56,65.91 
+		208.82,58.4 228.08,52.92 247.34,49.55 266.6,48.4 285.86,49.59 305.12,53.27 324.38,59.62 343.64,68.82 362.9,81.14 382.16,96.86 
+		401.42,116.36 420.68,140.12 439.94,168.73 459.2,203.02 	"/>
+	<line class="st12" x1="266.6" y1="211.7" x2="266.6" y2="19.7"/>
+	<path class="st6" d="M581,211.7h385.8 M581,19.7h385.8 M619.68,211.7v-3.86 M661.22,211.7v-3.86 M702.76,211.7v-3.86 M744.3,211.7
+		v-3.86 M785.84,211.7v-3.86 M827.38,211.7v-3.86 M868.92,211.7v-3.86 M910.46,211.7v-3.86 M952,211.7v-3.86 M619.68,19.7v3.86
+		 M661.22,19.7v3.86 M702.76,19.7v3.86 M744.3,19.7v3.86 M785.84,19.7v3.86 M827.38,19.7v3.86 M868.92,19.7v3.86 M910.46,19.7v3.86
+		 M952,19.7v3.86"/>
+	<text transform="matrix(1 0 0 1 610.9766 225.8959)" class="st1 st2 st3">-6.5</text>
+	<text transform="matrix(1 0 0 1 656.7109 225.8959)" class="st1 st2 st3">-6</text>
+	<text transform="matrix(1 0 0 1 694.0547 225.8959)" class="st1 st2 st3">-5.5</text>
+	<text transform="matrix(1 0 0 1 739.7969 225.8959)" class="st1 st2 st3">-5</text>
+	<text transform="matrix(1 0 0 1 777.1406 225.8959)" class="st1 st2 st3">-4.5</text>
+	<text transform="matrix(1 0 0 1 822.875 225.8959)" class="st1 st2 st3">-4</text>
+	<text transform="matrix(1 0 0 1 860.2188 225.8959)" class="st1 st2 st3">-3.5</text>
+	<text transform="matrix(1 0 0 1 905.9531 225.8959)" class="st1 st2 st3">-3</text>
+	<text transform="matrix(1 0 0 1 943.2969 225.8959)" class="st1 st2 st3">-2.5</text>
+	<path class="st6" d="M581,211.7v-192 M966.8,211.7v-192 M581,211.7h3.86 M581,179.7h3.86 M581,147.7h3.86 M581,115.7h3.86
+		 M581,83.7h3.86 M581,51.7h3.86 M581,19.7h3.86 M966.8,211.7h-3.86 M966.8,179.7h-3.86 M966.8,147.7h-3.86 M966.8,115.7h-3.86
+		 M966.8,83.7h-3.86 M966.8,51.7h-3.86 M966.8,19.7h-3.86"/>
+	<text transform="matrix(1 0 0 1 562 215.599)" class="st1 st2 st3">-2</text>
+	<text transform="matrix(1 0 0 1 570.3281 215.599)" class="st1 st2 st3">0</text>
+	<text transform="matrix(1 0 0 1 562 183.6069)" class="st1 st2 st3">-1</text>
+	<text transform="matrix(1 0 0 1 570.3281 183.6069)" class="st1 st2 st3">0</text>
+	<text transform="matrix(1 0 0 1 571 151.599)" class="st1 st2 st3">0</text>
+	<text transform="matrix(1 0 0 1 565.6016 119.599)" class="st1 st2 st3">10</text>
+	<text transform="matrix(1 0 0 1 565.6016 87.599)" class="st1 st2 st3">20</text>
+	<text transform="matrix(1 0 0 1 565.6016 55.599)" class="st1 st2 st3">30</text>
+	<text transform="matrix(1 0 0 1 565.6016 23.6069)" class="st1 st2 st3">40</text>
+	<text transform="matrix(1 0 0 1 759.5 15.0522)" class="st7 st8 st9">alpha</text>
+	<polyline class="st10" points="581,97.99 600.29,85.69 619.58,74.49 638.87,64.43 658.16,55.53 677.45,47.83 696.74,41.37 
+		716.03,36.22 735.32,32.43 754.61,30.08 773.9,29.27 793.19,30.12 812.48,32.81 831.77,37.53 851.06,44.59 870.35,54.4 
+		889.64,67.58 908.93,85.12 928.22,108.71 947.51,141.74 966.8,192.54 	"/>
+	<polyline class="st11" points="581,97.99 600.29,85.69 619.58,74.49 638.87,64.43 658.16,55.53 677.45,47.83 696.74,41.37 
+		716.03,36.22 735.32,32.43 754.61,30.08 773.9,29.27 793.19,30.12 812.48,32.81 831.77,37.53 851.06,44.59 870.35,54.4 
+		889.64,67.58 908.93,85.12 928.22,108.71 947.51,141.74 966.8,192.54 	"/>
+	<line class="st12" x1="773.9" y1="211.7" x2="773.9" y2="19.7"/>
+	<path class="st6" d="M74,477.5h385.2 M74,286.1h385.2 M100.81,477.5v-3.85 M160.54,477.5v-3.85 M220.27,477.5v-3.85 M280.01,477.5
+		v-3.85 M339.74,477.5v-3.85 M399.47,477.5v-3.85 M459.2,477.5v-3.85 M100.81,286.1v3.85 M160.54,286.1v3.85 M220.27,286.1v3.85
+		 M280.01,286.1v3.85 M339.74,286.1v3.85 M399.47,286.1v3.85 M459.2,286.1v3.85"/>
+	<text transform="matrix(1 0 0 1 90.9063 491.7006)" class="st1 st2 st3">0.18</text>
+	<text transform="matrix(1 0 0 1 153.3438 491.7006)" class="st1 st2 st3">0.</text>
+	<text transform="matrix(1 0 0 1 160.8438 491.7006)" class="st1 st2 st3 st13">20</text>
+	<text transform="matrix(1 0 0 1 215.375 491.7006)" class="st1 st2 st3">.2</text>
+	<text transform="matrix(1 0 0 1 222.875 491.7006)" class="st1 st2 st3 st14">20</text>
+	<text transform="matrix(1 0 0 1 275.1094 491.7006)" class="st1 st2 st3">.2</text>
+	<text transform="matrix(1 0 0 1 282.6094 491.7006)" class="st1 st2 st3 st14">40</text>
+	<text transform="matrix(1 0 0 1 334.8359 491.7006)" class="st1 st2 st3">.26</text>
+	<text transform="matrix(1 0 0 1 389.5625 491.7006)" class="st1 st2 st3">0.28</text>
+	<text transform="matrix(1 0 0 1 452 491.7006)" class="st1 st2 st3">0.3</text>
+	<path class="st6" d="M74,477.5V286.1 M459.2,477.5V286.1 M74,477.5h3.85 M74,445.6h3.85 M74,413.7h3.85 M74,381.8h3.85 M74,349.9
+		h3.85 M74,318h3.85 M74,286.1h3.85 M459.2,477.5h-3.85 M459.2,445.6h-3.85 M459.2,413.7h-3.85 M459.2,381.8h-3.85 M459.2,349.9
+		h-3.85 M459.2,318h-3.85 M459.2,286.1h-3.85"/>
+	<text transform="matrix(1 0 0 1 58.6016 481.3959)" class="st1 st2 st3">32</text>
+	<text transform="matrix(1 0 0 1 58.6016 449.5053)" class="st1 st2 st3">33</text>
+	<text transform="matrix(1 0 0 1 58.6016 417.599)" class="st1 st2 st3">34</text>
+	<text transform="matrix(1 0 0 1 58.6016 385.7084)" class="st1 st2 st3">35</text>
+	<text transform="matrix(1 0 0 1 58.6016 353.8022)" class="st1 st2 st3">36</text>
+	<text transform="matrix(1 0 0 1 58.6016 321.9037)" class="st1 st2 st3">37</text>
+	<text transform="matrix(1 0 0 1 58.6016 290.0053)" class="st1 st2 st3">38</text>
+	<text transform="matrix(1 0 0 1 239.6016 281.4584)" class="st7 st8 st9">sigma_eta</text>
+	<polyline class="st10" points="74,453.66 93.26,421.2 112.52,394.73 131.78,373.37 151.04,356.37 170.3,343.14 189.56,333.14 
+		208.82,325.94 228.08,321.16 247.34,318.49 266.6,317.65 285.86,318.42 305.12,320.58 324.38,323.96 343.64,328.41 362.9,333.8 
+		382.16,340.02 401.42,346.95 420.68,354.51 439.94,362.63 459.2,371.23 	"/>
+	<polyline class="st11" points="74,453.66 93.26,421.2 112.52,394.73 131.78,373.37 151.04,356.37 170.3,343.14 189.56,333.14 
+		208.82,325.94 228.08,321.16 247.34,318.49 266.6,317.65 285.86,318.42 305.12,320.58 324.38,323.96 343.64,328.41 362.9,333.8 
+		382.16,340.02 401.42,346.95 420.68,354.51 439.94,362.63 459.2,371.23 	"/>
+	<line class="st12" x1="266.6" y1="477.5" x2="266.6" y2="286.1"/>
+	<path class="st6" d="M581,477.5h385.8 M581,286.1h385.8 M600.12,477.5v-3.86 M653.12,477.5v-3.86 M706.13,477.5v-3.86
+		 M759.13,477.5v-3.86 M812.14,477.5v-3.86 M865.14,477.5v-3.86 M918.15,477.5v-3.86 M600.12,286.1v3.86 M653.12,286.1v3.86
+		 M706.13,286.1v3.86 M759.13,286.1v3.86 M812.14,286.1v3.86 M865.14,286.1v3.86 M918.15,286.1v3.86"/>
+	<text transform="matrix(1 0 0 1 590.2188 491.7006)" class="st1 st2 st3">0.04</text>
+	<text transform="matrix(1 0 0 1 643.2188 491.7006)" class="st1 st2 st3">0.05</text>
+	<text transform="matrix(1 0 0 1 696.2266 491.7006)" class="st1 st2 st3">0.06</text>
+	<text transform="matrix(1 0 0 1 749.2344 491.7006)" class="st1 st2 st3">0.07</text>
+	<text transform="matrix(1 0 0 1 802.2344 491.7006)" class="st1 st2 st3">0.08</text>
+	<text transform="matrix(1 0 0 1 855.2422 491.7006)" class="st1 st2 st3">0.09</text>
+	<text transform="matrix(1 0 0 1 910.9453 491.7006)" class="st1 st2 st3">0.1</text>
+	<path class="st6" d="M581,477.5V286.1 M966.8,477.5V286.1 M581,477.5h3.86 M581,445.6h3.86 M581,413.7h3.86 M581,381.8h3.86
+		 M581,349.9h3.86 M581,318h3.86 M581,286.1h3.86 M966.8,477.5h-3.86 M966.8,445.6h-3.86 M966.8,413.7h-3.86 M966.8,381.8h-3.86
+		 M966.8,349.9h-3.86 M966.8,318h-3.86 M966.8,286.1h-3.86"/>
+	<text transform="matrix(1 0 0 1 565.6016 481.3959)" class="st1 st2 st3">10</text>
+	<text transform="matrix(1 0 0 1 565.6016 449.5053)" class="st1 st2 st3">15</text>
+	<text transform="matrix(1 0 0 1 565.6016 417.599)" class="st1 st2 st3">20</text>
+	<text transform="matrix(1 0 0 1 565.6016 385.7084)" class="st1 st2 st3">25</text>
+	<text transform="matrix(1 0 0 1 565.6016 353.8022)" class="st1 st2 st3">30</text>
+	<text transform="matrix(1 0 0 1 565.6016 321.9037)" class="st1 st2 st3">35</text>
+	<text transform="matrix(1 0 0 1 565.6016 290.0053)" class="st1 st2 st3">40</text>
+	<text transform="matrix(1 0 0 1 735.5 281.4584)" class="st7 st8 st9">sigma_epsilon</text>
+	<polyline class="st10" points="581,475.05 600.29,422.06 619.58,384.8 638.87,358.4 658.16,339.67 677.45,326.5 696.74,317.42 
+		716.03,311.4 735.32,307.69 754.61,305.75 773.9,305.17 793.19,305.66 812.48,306.98 831.77,308.94 851.06,311.42 870.35,314.3 
+		889.64,317.49 908.93,320.93 928.22,324.56 947.51,328.33 966.8,332.22 	"/>
+	<polyline class="st11" points="581,475.05 600.29,422.06 619.58,384.8 638.87,358.4 658.16,339.67 677.45,326.5 696.74,317.42 
+		716.03,311.4 735.32,307.69 754.61,305.75 773.9,305.17 793.19,305.66 812.48,306.98 831.77,308.94 851.06,311.42 870.35,314.3 
+		889.64,317.49 908.93,320.93 928.22,324.56 947.51,328.33 966.8,332.22 	"/>
+	<line class="st12" x1="773.9" y1="477.5" x2="773.9" y2="286.1"/>
+	<path class="st6" d="M269.6,533.9h483.6 M269.6,505.7h483.6 M269.6,533.9v-28.2 M753.2,533.9v-28.2"/>
+	<line class="st11" x1="501.73" y1="519.8" x2="598.45" y2="519.8"/>
+	<line class="st12" x1="288.94" y1="519.8" x2="385.66" y2="519.8"/>
+	<text transform="matrix(1 0 0 1 390.5 523.7006)" class="st1 st2 st3">log-post</text>
+	<text transform="matrix(1 0 0 1 603.2813 523.7006)" class="st1 st2 st3">log-lik kerne</text>
+	<text transform="matrix(1 0 0 1 654.6719 523.7006)" class="st1 st2 st3">l</text>
+</g>
+</svg>
