@@ -1,0 +1,77 @@
+Starting Dynare (version 5.4).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 4 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+STEADY-STATE RESULTS:
+
+x   		 0
+mu  		 0
+a_1 		 0
+a_2 		 0
+
+MODEL SUMMARY
+
+  Number of variables:         4
+  Number of stochastic shocks: 2
+  Number of state variables:   4
+  Number of jumpers:           0
+  Number of static variables:  0
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables     epsilon       eta
+epsilon      1.000000  0.000000
+eta          0.000000  1.000000
+
+POLICY AND TRANSITION FUNCTIONS
+                                   x              mu             a_1             a_2
+x(-1)                       1.000000        0.407900               0               0
+mu(-1)                             0        0.592100               0               0
+a_1(-1)                    -0.592100               0               0               0
+a_2(-1)                            0       -0.592100               0               0
+epsilon                    -0.002747       -0.000121       -0.002747       -0.000121
+eta                         0.002747        0.001121        0.002747        0.001121
+
+
+MOMENTS OF SIMULATED VARIABLES
+VARIABLE              MEAN       STD. DEV.        VARIANCE        SKEWNESS        KURTOSIS
+x                 0.006688        0.004345        0.000019        0.271229       -0.637363
+mu                0.006292        0.002803        0.000008        0.563754       -0.173741
+a_1               0.000811        0.004489        0.000020        0.567059        0.621133
+a_2               0.000416        0.001295        0.000002        0.193494       -0.446983
+
+
+CORRELATION OF SIMULATED VARIABLES
+VARIABLE          x       mu      a_1      a_2
+x            1.0000   0.5663   0.7983   0.6382
+mu           0.5663   1.0000  -0.0110   0.2267
+a_1          0.7983  -0.0110   1.0000   0.7645
+a_2          0.6382   0.2267   0.7645   1.0000
+
+
+AUTOCORRELATION OF SIMULATED VARIABLES
+VARIABLE          1        2        3        4        5
+x            0.2821  -0.0105   0.1288   0.1848   0.0504
+mu           0.8089   0.5650   0.3749   0.1790   0.0091
+a_1         -0.0387  -0.3280  -0.0313   0.1800   0.0989
+a_2          0.1414  -0.2107   0.0089   0.3287   0.0672
+
+
+
+VARIANCE DECOMPOSITION SIMULATING ONE SHOCK AT A TIME (in percent)
+                epsilon               eta  Tot. lin. contr.
+x                 64.53             77.02            141.55
+mu                79.65            142.31            221.96
+a_1               54.22             51.19            105.42
+a_2                1.25            102.36            103.62
+Note: numbers do not add up to 100 due to non-zero correlation of simulated shocks in small samples
+
+Total computing time : 0h00m00s
