@@ -1,8 +1,8 @@
 %%_________________________________________________________________________
 %%                             MACROECONOMÍA III
-%%                  PC#1: Problemas Cortos (Coding Task)
+%%                             PD #8: Problema 2
 %%_________________________________________________________________________
-%%                  Convergencia Absoluta y Condicional
+%%    Employment and hours over the business cycle (Cho y Cooley, 1994)
 %%_________________________________________________________________________
 
 %%.........................................................................
@@ -10,14 +10,14 @@
 %%.........................................................................
 
 %%.........................................................................
-%% Program (script): solow_convergencia.m
-%%  - First Created: 29/08/23
-%%  - Last Updated:  30/08/23
+%% Program (script): cho_cooley_1994.m
+%%  - First Created: 09/11/23
+%%  - Last Updated:  10/11/23
 %%.........................................................................
 
 
 %--------------------------------------------------------------------------
-% Cooley & Cho, (1994)
+% Cho & Cooley, (1994)
 %--------------------------------------------------------------------------
 % Este es un modelo RBC con choque tecnológico y dos variables de oferta de
 % de trabajo como la novedad: n (horas de trabajo) y e (tasa de empleo);
@@ -29,18 +29,10 @@
 %--------------------------------------------------------------------------
 
 %..........................................................................
-% Nota: Como lo asumen Cooley & Cho, dado el equilibrio se trata
+% Nota: Como lo asumen Cho & Cooley, dado el equilibrio se trata
 % indistintamente a las variables agragadas y sus contrapartes individuales.
 % En este script consideramos todas como individuales (en minúsculas).
 %..........................................................................
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% 0. Configuración inicial
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%clear all;
-%clc;
-%close all;
 
 
 %**************************************************************************
