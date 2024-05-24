@@ -1,6 +1,6 @@
 %__________________________________________________________________________
 %                           MACROECONOMÍA III
-%                   Laboratorio #2 (PD#7): Coding Task 1 b)
+%                       PD #6: Coding Task 1 (b)
 %__________________________________________________________________________
 %           Modelo de Cagan: expectativas adaptativas y racionales
 %__________________________________________________________________________
@@ -8,14 +8,14 @@
 %.........................................................................
 % Program (script): cagan_a.mod
 %  - First Created: 23/10/23
-%  - Last Updated:  23/10/23
+%  - Last Updated:  17/05/24
 %.........................................................................
 
 %%--------------------------------------------------------------------------
 %% Cagan (1956)
 %%--------------------------------------------------------------------------
 
-// Este programa resuelve y simula la coding task 1 de la PD#7 bajo el modelo
+// Este programa resuelve y simula el Problema 1 de la PD #6 bajo el modelo
 // de Cagan incluyendo expectativas adaptativas y racionales. Este programa
 // está basado en las notas de clase "Rational Expectations" del profesor
 // Gonzalo Llosa.
@@ -51,7 +51,7 @@ lambda  % Parámetro del proceso AR(1) del logaritmo del stock de dinero.
 alpha = 0.5;
 beta = 0.5;
 mbar = 2.0;
-lambda = 0.9; % (Debe cumplirse que |lambda|<1).
+lambda = 0.5; % (Debe cumplirse que |lambda|<1).
 
 
 %**************************************************************************
@@ -61,7 +61,7 @@ lambda = 0.9; % (Debe cumplirse que |lambda|<1).
 // Corresponden a las ecuaciones (1) y (2) de la Coding Task 1 de la PD#7.
 
 model(linear);  % Resuelve el model (opción lineal o no lineal).
-p = 0.1*alpha*p(+1) + 0.9*alpha*p(-1) + beta*m;
+p = 0.7*alpha*p(+1) + 0.3*alpha*p(-1) + beta*m;
 m = mbar + lambda*m(-1) + u; 
 end;
 
@@ -81,7 +81,7 @@ end;
 
 %--------------------------------------------------------------------------
 % Nota: Una alternativa a "initval" es resolver el estado estacionario de las
-//      variables a mano y ponerlos como valores iniciales. Se verá más adelante.
+%      variables a mano y ponerlos como valores iniciales. Se verá más adelante.
 %--------------------------------------------------------------------------
 
 
@@ -106,13 +106,12 @@ steady;
 
 shocks; % Define los shocks del modelo.
 
-var     % Comando para establecer la variable asociada al shock.
-u = 0.1;  
-end;    
+var u = 1; % Variable asociada al shock y su desviación estándar.
+end;   
 
 
 %**************************************************************************
-% 5. Simulación estocástica del modelo                                               
+% 6. Simulación estocástica del modelo                                               
 %**************************************************************************
 
 stoch_simul(graph, irf = 50);   % Obtiene las funciones de política y de estado (transición) del modelo.

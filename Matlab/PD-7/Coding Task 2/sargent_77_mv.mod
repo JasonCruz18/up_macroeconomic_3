@@ -3,7 +3,7 @@
 %                    Laboratorio #2: Coding Task 2
 %__________________________________________________________________________
 %            La Demanda de Dinero durante las Hiperinflaciones
-%                     bajo Expectaticas Racionales
+%                     bajo Expectativas Racionales
 %__________________________________________________________________________
 
 %.........................................................................

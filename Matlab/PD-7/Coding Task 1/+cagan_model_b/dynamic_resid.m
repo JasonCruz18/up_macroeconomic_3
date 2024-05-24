@@ -24,7 +24,7 @@ if T_flag
 end
 residual = zeros(2, 1);
 lhs = y(3);
-rhs = 0.1*params(1)*y(5)+params(1)*0.9*y(1)+params(2)*y(4);
+rhs = 0.7*params(1)*y(5)+params(1)*0.3*y(1)+params(2)*y(4);
 residual(1) = lhs - rhs;
 lhs = y(4);
 rhs = params(3)+params(4)*y(2)+x(it_, 1);
