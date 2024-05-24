@@ -23,9 +23,9 @@ if T_flag
     T = cagan_model_b.dynamic_g1_tt(T, y, x, params, steady_state, it_);
 end
 g1 = zeros(2, 6);
-g1(1,1)=(-(params(1)*0.9));
+g1(1,1)=(-(params(1)*0.3));
 g1(1,3)=1;
-g1(1,5)=(-(0.1*params(1)));
+g1(1,5)=(-(0.7*params(1)));
 g1(1,4)=(-params(2));
 g1(2,2)=(-params(4));
 g1(2,4)=1;

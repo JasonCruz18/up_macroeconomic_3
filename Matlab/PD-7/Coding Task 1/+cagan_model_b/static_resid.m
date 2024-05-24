@@ -20,7 +20,7 @@ if T_flag
 end
 residual = zeros(2, 1);
 lhs = y(1);
-rhs = y(1)*0.1*params(1)+y(1)*params(1)*0.9+params(2)*y(2);
+rhs = y(1)*0.7*params(1)+y(1)*params(1)*0.3+params(2)*y(2);
 residual(1) = lhs - rhs;
 lhs = y(2);
 rhs = params(3)+y(2)*params(4)+x(1);

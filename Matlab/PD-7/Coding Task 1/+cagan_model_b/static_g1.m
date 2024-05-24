@@ -19,7 +19,7 @@ if T_flag
     T = cagan_model_b.static_g1_tt(T, y, x, params);
 end
 g1 = zeros(2, 2);
-g1(1,1)=1-(0.1*params(1)+params(1)*0.9);
+g1(1,1)=1-(0.7*params(1)+params(1)*0.3);
 g1(1,2)=(-params(2));
 g1(2,2)=1-params(4);
 if ~isreal(g1)
