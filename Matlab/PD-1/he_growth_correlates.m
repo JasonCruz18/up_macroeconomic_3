@@ -1,13 +1,13 @@
 %%_________________________________________________________________________
 %% MACROECONOMÍA III
-%% PD #1: Problema 3 (Coding Task)
+%% Ejercicio 1 de la PD #1
 %%_________________________________________________________________________
 %%                  Hechos Estilizados y Correlatos del
 %%                          Crecimiento Económico
 %%_________________________________________________________________________
 
 %%.........................................................................
-%% Autor(es): Jason Cruz & Kevin Risco
+%% Autor(es): Jason Cruz & Sergio Vera
 %%.........................................................................
 
 %%.........................................................................
@@ -22,9 +22,8 @@
 % Este script contiene la replicación de algunos Hechos Estilizados (HE) y
 % correlatos del crecimiento económico. Las novedades respecto del Notebook
 % de Python son los CORRELATOS y las densidades del PBI per cápita. Además,
-% a diferencia del Notebook, incorporamos un país de la Unión Europea (UE)
-% y otro que se retiró. Estamos interesados en explorar las PWT para el
-% análisis de los grandes ratios y variables macro.
+% se agregan algunos países de la Unión Europea. Estamos interesados
+% en explorar las PWT para el análisis de los grandes ratios.
 %--------------------------------------------------------------------------
 
 clear all;
