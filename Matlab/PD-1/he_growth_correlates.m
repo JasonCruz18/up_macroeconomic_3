@@ -246,7 +246,7 @@ plot(sample, GDP_pc(:,6), '-.', 'Color', [48, 102, 190]/255, 'LineWidth', 2.15);
 plot(sample, GDP_pc(:,7), '-.', 'Color', [9, 12, 155]/255, 'LineWidth', 2.15); % Chile
 plot(sample, GDP_pc(:,8), 'Color', [21, 128, 120]/255, 'LineWidth', 2.15); % China (CHN)
 xlabel('Año', 'FontName', 'Serif', 'FontSize', 12);
-ylabel('PIB per cápita en US$ 2017', 'FontName', 'Serif', 'FontSize', 12);
+ylabel('Log PIB pc', 'FontName', 'Serif', 'FontSize', 12);
 %title('Evolución PIB per cápita', 'FontName', 'Serif', 'FontSize', 12);
 legend(Identifiers, 'FontName', 'Serif', 'FontSize', 10, 'Location', 'southoutside', 'Orientation', 'horizontal', 'NumColumns', 5);
 saveas(gcf, 'evolucion_pbi_pc', 'pdf');
